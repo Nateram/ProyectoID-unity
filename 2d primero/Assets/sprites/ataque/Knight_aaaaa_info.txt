@@ -1,0 +1,13 @@
+version: 2
+type: animation
+name: SlashEffectAlt
+consistent_sprite_size: true
+enable_borders: false
+use_sprite_name: false
+sprites: 6
+0	SlashEffectAlt_000.png
+1	SlashEffectAlt_001.png
+2	SlashEffectAlt_002.png
+3	SlashEffectAlt_003.png
+4	SlashEffectAlt_004.png
+5	SlashEffectAlt_005.png
