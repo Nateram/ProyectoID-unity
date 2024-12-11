@@ -1,0 +1,13 @@
+version: 2
+type: animation
+name: DownSlashEffect
+consistent_sprite_size: true
+enable_borders: false
+use_sprite_name: false
+sprites: 6
+0	DownSlashEffect_000.png
+1	DownSlashEffect_001.png
+2	DownSlashEffect_002.png
+3	DownSlashEffect_003.png
+4	DownSlashEffect_004.png
+5	DownSlashEffect_005.png

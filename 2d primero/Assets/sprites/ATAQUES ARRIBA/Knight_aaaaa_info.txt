@@ -1,0 +1,13 @@
+version: 2
+type: animation
+name: UpSlashEffect
+consistent_sprite_size: true
+enable_borders: false
+use_sprite_name: false
+sprites: 6
+0	UpSlashEffect_000.png
+1	UpSlashEffect_001.png
+2	UpSlashEffect_002.png
+3	UpSlashEffect_003.png
+4	UpSlashEffect_004.png
+5	UpSlashEffect_005.png
