@@ -1,0 +1,13 @@
+version: 2
+type: animation
+name: Run To Idle
+consistent_sprite_size: true
+enable_borders: false
+use_sprite_name: false
+sprites: 6
+0	Run To Idle_000.png
+1	Run To Idle_001.png
+2	Run To Idle_002.png
+3	Run To Idle_003.png
+4	Run To Idle_004.png
+5	Run To Idle_005.png
